@@ -1,0 +1,4 @@
+house_features.joblib
+venv/
+house_model.joblib
+california_housing_10.csv
