@@ -1,0 +1,7 @@
+whisper,cursor
+Run a full FastAPI Project
+deactivate  
+python -m venv venv  
+venv\Scripts\activate     
+python -m pip install fastapi uvicorn 
+python -m uvicorn main:app --reload   
